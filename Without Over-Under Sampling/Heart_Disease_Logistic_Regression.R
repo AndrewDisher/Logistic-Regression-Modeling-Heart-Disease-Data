@@ -2,6 +2,7 @@
 # Creator:        Andrew Disher
 # Affiliation:    UMASS Dartmouth
 # Course:         CIS-530 Advanced Data Mining
+# Assignment:     Final Project
 # Date:           5/2/2022
 #
 # TASK: Fit a binomial logistic regression model and perform diagnostics on the Heart Disease Data Set. Then 
