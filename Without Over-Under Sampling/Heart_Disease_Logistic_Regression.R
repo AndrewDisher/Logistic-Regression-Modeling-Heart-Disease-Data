@@ -2,7 +2,6 @@
 # Creator:        Andrew Disher
 # Affiliation:    UMASS Dartmouth
 # Course:         CIS-530 Advanced Data Mining
-# Assignment:     Homework 3 Part 2
 # Date:           5/2/2022
 #
 # TASK: Fit a binomial logistic regression model and perform diagnostics on the Heart Disease Data Set. Then 
@@ -125,7 +124,7 @@ Precision = 588/(588+468) # 0.5568182
 # create a cost matrix to visualize
 matrix(c(0, 1, 100, -1), nrow = 2, ncol = 2)
 
-# Computing cost
+# Computing cost (using a predetermined cost matrix)
 0*58044 + 1*468 + 100*4859 + -1*588 # 485780
 
 
