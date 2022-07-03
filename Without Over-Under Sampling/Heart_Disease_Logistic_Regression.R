@@ -124,7 +124,7 @@ Precision = 588/(588+468) # 0.5568182
 # create a cost matrix to visualize
 matrix(c(0, 1, 100, -1), nrow = 2, ncol = 2)
 
-# Computing cost (using a predetermined cost matrix)
+# Computing cost (using a predetermined cost matrix, to compare with other classification models on this data set)
 0*58044 + 1*468 + 100*4859 + -1*588 # 485780
 
 
