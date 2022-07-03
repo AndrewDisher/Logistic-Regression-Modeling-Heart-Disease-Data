@@ -92,11 +92,6 @@ Confusion_Matrix$table
 
 # Accuracy = 0.9167  
 
-# NOTE: The value 1 is the positive result, i.e. a value of 1 corresponds to a malignant tumor, and 0 
-#       corresponds to a benign tumor. Therefore, the confusion matrix above should be changed to reflect 
-#       this in our report.
-
-
 # Creating an ROC curve and calculating area under curve (using test predictions before rounding)
 roc_score = roc(Test_Data$HeartDisease, 
                 predict(Model2, 
