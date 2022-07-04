@@ -32,7 +32,7 @@ failing to detect cases of heart disease would be more detrimental than falsely 
 Additional Info ---------------
 -------------------------------
 
-There are two code folders for this project, on labeled 'without-under-over-sampling' and one labeled 'witht-under-over-sampling'. Each contains the code for 
+There are two code folders for this project, on labeled 'without-under-over-sampling' and one labeled 'with-under-over-sampling'. Each contains the code for 
 fitting and evaluating the logistic regression model, but with one important difference: the use of under-oversampling to balance the data set. Typically, 
 data can either be undersampled to reduce the number of instances/observations that are identified with the most populous class (negative cases), or oversampled 
 to increase the number of observations of the less populous class (postive cases). In the first code folder, we neglected to use any under- or oversampling
