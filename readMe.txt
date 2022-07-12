@@ -12,7 +12,7 @@ The data set contains a response variable, and many predictors variables (featur
 whether an individual has heart disease or not. A value of 1 corresponds to a positive result (the individual has heart disease) and a value 
 of 0 corresponds to a negative (the individual does not have heart disease). 
 
-The are a variety of other variables that were deemed key indicators by the CDC, and each one can be found described in detail when viewing the 
+There are a variety of other variables that were deemed key indicators by the CDC, and each one can be found described in detail when viewing the 
 Kaggle link provided above. 
 
 -------------------------------
